@@ -1,4 +1,6 @@
-## Hey, I'm Sandhya
+<p align="center">
+  <img src="assets/image.png" alt="Sandhya Barolia" width="100%">
+
 
 <!--
 **sandhya11-gth/sandhya11-gth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
