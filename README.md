@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/image.png" alt="Sandhya Barolia" width="100%">
+  <img src="image.png" alt="Sandhya Barolia" width="100%">
 
 
 <!--
