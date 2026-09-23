@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, I'm Sandhya
 
 <!--
 **sandhya11-gth/sandhya11-gth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-About Me<br>🤖 Exploring AI/ML and intelligent systems<br>💻 Building with C++, Python, React & modern web technologies<br>🧩 Learning by building, breaking, debugging, and rebuilding<br>🎨 Into creative tech, design, photography & interactive experiences<br>🚀 Currently turning curiosity into projects one idea at a time<br>
+🤖 Exploring AI/ML and intelligent systems<br>💻 Building with C++, Python, React & modern web technologies<br>🧩 Learning by building, breaking, debugging, and rebuilding<br>🎨 Into creative tech, design, photography & interactive experiences<br>🚀 Currently turning curiosity into projects one idea at a time<br>
 
 
 ## 🌐 Socials:
