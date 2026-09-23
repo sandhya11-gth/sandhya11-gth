@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.gif" width="100%" alt="Sandhya Barolia">
+  <img src="sandhya-github-banner.gif" width="100%" alt="Sandhya Barolia">
 </p>
 
 <!--
